@@ -1,0 +1,46 @@
+
+#up /* Цветвставка сверху */
+{
+    width: 100%;
+
+    height: 200px;
+
+    background: rgb(186, 181, 235);
+
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+#bottom /* Цветвставка снизу */
+{
+    width: 100%;
+
+    height: 200px;
+
+    background: rgb(191, 238, 179);
+
+    border-top: 1px solid rgb(0, 0, 0);
+}
+
+#center /* Цветвставка по центру */
+{
+    margin: 0px 250px 0px 250px;
+
+    padding: 500px;
+
+    background: rgb(245, 238, 206);
+
+    border-left: 1px solid rgb(0, 0, 0);
+
+    border-right: 1px solid rgb(0, 0, 0);
+}
+
+#A /* Текст под фото АБ */
+{
+    text-align: center;
+
+    font-family: cursive;
+}
+
+  
+  /*padding-left: 10px; /* Отступ от линии слева до текста  
+  padding-bottom: 10px;*/
