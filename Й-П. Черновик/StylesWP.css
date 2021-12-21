@@ -23,7 +23,7 @@
 {
     width: 100%;
 
-    height: 500px;
+    height: 450px;
 
     background: rgb(204, 204, 204);
 
@@ -36,10 +36,10 @@
 
     padding: 100px;
 
-    background: #575753;
+    background: #9c9c9a;
 }
 
-.n
+.n /* Подписи */
 {
     font-family: fantasy;
 
@@ -48,7 +48,7 @@
     text-align: center;
 }
 
-
+/* Наша доставка подарит широкий спектр вкусов как от классической, так и от экзотической пиццы.  */
 
 
 
